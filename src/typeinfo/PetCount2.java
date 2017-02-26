@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/PetCount2.java
 import typeinfo.pets.*;
 

@@ -1,3 +1,5 @@
+package typeinfo;
+
 //: typeinfo/GenericClassReferences.java
 
 public class GenericClassReferences {
