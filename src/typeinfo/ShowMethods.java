@@ -15,6 +15,8 @@ public class ShowMethods {
 	private static Pattern p = Pattern.compile("\\w+\\.");
 
 	public static void main(String[] args) {
+		args = new String[1];
+		args[0] = "typeinfo.ShowMethods";
 		if (args.length < 1) {
 			print(usage);
 			System.exit(0);
