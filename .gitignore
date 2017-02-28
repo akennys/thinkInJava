@@ -1,7 +1,7 @@
 .settings
 .classpath
 
-/classes
-/target
+.classes
+.target
 .idea
 *.iml
