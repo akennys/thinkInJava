@@ -1,6 +1,6 @@
 .settings
 .classpath
-
+/bin
 .classes
 .target
 .idea
